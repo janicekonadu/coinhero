@@ -1,0 +1,724 @@
+Software Developer
+Software Developer
+Baldwinsville, NY
+Proactive software developer with experience with back-end programming, relational database, and the development and maintenance of complex and critical systems. Adept at designing, implementing, and customising programs.
+Work Experience	
+Software Developer
+National Employers Council
+April 2017 to February 2019
+software following established architectural patterns. Work with varies levels of the software including... and test fixes to software defects. ? Troubleshoot...
+Software Developer
+July 2000 to December 2015
+Mashhad, Iran ? Defined software deficiencies and... expanded existing software programs. ? Implemented system security and data assurance software. ? Analyzed...
+Education	
+Bachelor of Science in Computer Software Engineering
+Azad University
+January 2000
+Skills	
+CSS3 (3 years), HTML 5 (3 years), Javascript (3 years), Asp.Net MVC (3 years), JQuery (3 years), Ajax (3 years), SQL (10+ years), C#.NET MVVM (6 years), SSRS (6 years), Crystal Reports (10+ years), Bootstrap (3 years), WPF (6 years)
+
+Software Developer
+Software Developer - Datapult Inc
+Brewster, NY
+Software developer with a knack for analyzing, understanding and breaking down complex requirements into simple, easily
+managed portions. Experienced at understanding resource limitations, identifying bottlenecks, and working with business
+owners throughout project life cycles. Familiar with using and integrating a wide range of technologies to create robust
+business solutions for challenging needs.
+Work Experience	
+Software Developer
+Datapult Inc
+August 2018 to Present
+Developed Android map services interface for 'Achu' project. Including real time geo-location, plus map
+pin highlighting of local health care services such as clinics, doctors offices, pharmacies and hospitals.
+ Developed heat map interface to display local causation zones using symptoms reported by area users.
+ Currently working on Intranet portal for administration of offers, coupons & heath tips available through the 'Achu' application interface.
+Development Manager - Software Developer
+IBM outsourced Datacap development to Persistent Systems
+March 2017 to September 2018
+in June of 2016. The core development team was transitioned over to PSI as part of the agreement.
+
+Development Manager - Software Developer	March 2017 - September 2018
+ Managed Datacap product global release planning, scheduling and delivery of primary software releases.
+ Developed and executed on strategy to improve software lab release iteration timing; moved team over the course of a year from a six month new release capability (a single stream), to alternating monthly modified
+releases across three streams; one new release and updates for prior two releases.
+ Enhanced Medical application C++ based modules to improve performance, logging and capture accuracy.
+ Resolved threading issues, added features and improved throughput performance to Datacap document
+identification and classification service.
+ Drove and developed key features across four globally situated teams in USA, China and India.
+ Provided direct technical guidance and training of 20+ junior/mid-level developers and support engineers.
+ Worked directly with customers to improve communication and resolution time on key issues.
+Persistent Systems Inc - Poughkeepsie, NY
+June 2016 to September 2018
+Software Developer
+June 2016 to February 2017
+Developed new C# libraries for adding cognitive features for data extraction and analysis.
+IBM outsourced Datacap development to Persistent Systems - Tarrytown, NY
+August 2010 to May 2016
+Staff Software Engineer
+IBM outsourced Datacap development to Persistent Systems
+August 2010 to May 2016
+acquired Datacap in August of 2010. I continued to lead vertical application development, including adding new
+libraries and updating older ones as industry expectations and capabilities changed.
+
+Staff Software Engineer	August 2010 - May 2016
+ Technical manager for medical claims capture application, maintained and updated application
+components (including new C++ modules) for mandated regulatory and industry updates.
+ Developed new simplified application engine library user interfaces using a wide variety of technologies:
+MS C++, .NET/C# and WPF, OLEDB, ADO and other third party API's.
+ Developed application libraries for integrating Watson AI and other IBM analytical REST Services into the Datacap product.
+ Designed and implemented data globalization API's in all libraries using .NET/C# and COM, enabling
+backwards compatibility with older components to ensure a seamless and non disruptive customer
+experience worldwide.
+ Technical lead for customer and partner-facing deep dive Q&A seminars.
+ IBM Datacap Lab HIPAA compliance officer and scrum master for the client/server development team.
+Software Developer - Technical Product Manager
+IBM outsourced Datacap development to Persistent Systems
+January 2006 to August 2010
+Developed, designed and implemented reusable application libraries and client interfaces.
+Technical lead for creating new and migrating existing core application libraries to C# .Net format.
+Maintained document capture applications to conform with annual regulatory updates.
+Company HIPAA compliance officer.
+Keynote speaker and moderator
+IBM outsourced Datacap development to Persistent Systems - Tarrytown, NY
+May 2000 to August 2010
+ Keynote speaker and moderator for a series of round table discussions unifying knowledge between development, support, sales, and services.
+Datacap Inc., Tarrytown, New York	May 2000 - August 2010
+I Started at Datacap as a junior developer. My role transitioned over the years from simply supporting and developing application
+modules, to guiding application development and creating an industry leading, unstructured document data extraction methods
+(analytics).
+Software Developer
+IBM outsourced Datacap development to Persistent Systems
+January 2002 to January 2006
+Part of the document capture application team. Created key applications including client interfaces and processes for capturing medical claims, invoices, tax documents and other unstructured forms. Conceived,
+created, and developed API's covering data/image ingestion, image processing, data extraction, validation and exports for industry file standards, EDI, and third party repositories.
+Junior Software Developer
+NSF, ANSI
+May 2000 to January 2002
+Developed industry standard (NSF, ANSI) data export modules for use with a Windows-based document
+capture software application.
+Education	
+Diploma in Computer Programming in Computer Programming
+The Chubb Institute White Plains, NY
+May 2000
+Skills	
+.net (10+ years), Android (Less than 1 year), C (10+ years), C+ (7 years), Edi (4 years)
+Additional Information	
+Key Skills
+UI/UX design
+API design
+C# and .Net
+C/C++
+Web development/HTML
+Scripting
+Data structures, XML, Json, Databases
+SQL
+Agile development
+Project Management
+Light Android Development/Kotlin
+EDI, X12N
+VBS
+Software developer
+Software developer - MGA Systems, Inc
+Merrick, NY
+IT professional with significant experience designing applications and databases. Extensive experience in analysis, design, development and documentation of applications and database structures, as well as reverse engineering.
+Authorized to work in United States for any employer
+Work Experience	
+Software developer
+MGA Systems, Inc - Melville, NY
+April 2010 to Present
+   Developed multiple stored procedures, functions and views on SQL Server 2008 to use as data sources for reports.
+    Developed multiple reports using Active reports for different commercial insurance forms and reports.
+    Developed and implemented custom modules for Insurance Management System.
+    Developed and implemented AdHoc management application and reporting module.
+ 
+Software developer
+DYMO - A Newell Rubbermaid Company - Stamford, CT
+February 2007 to January 2010
+Designed, developed and programmed "Facility Management System" for placing facility management requests and manage approvals, budgeting and completing time for each request, including business analysis and functional requirements definition.
+ Designed, developed and programmed "Vacation Tracking System" which tracked vacation days allotted for all employees. Work included business analysis and functional requirements definition.
+ Maintained and regularly improved "Return Material Authorization" application (RMA) including migrations of the RMA application from MS SQL 7 to MS SQL 2008.
+ Upgraded RMA application to comply with PCI security standards.
+ Redesigned all reports to run using MS Reporting Services.
+ Supported migration from old ERP system to SAP as divisional security administrator.
+ Installed and setup intranet news and community site server bases on DotNetNuke platform.
+Software developer
+Wall Street Network Inc - New York, NY
+May 2006 to November 2006
+Developed (as a part of a team) web based application for analyzing and making decisions for insurance risks based on historical data and modeling natural hazards and terror threats.
+ Designed tables, views and stored procedures to access geo-data using MapInfo's SpartialWare (data management tool to store, manage and manipulate spatial data within MS SQL Server).
+ Used tools: ASP.NET, VB.NET, MapInfo, MapXtreme for NET, SpartialWare, MS SQL Server 2000, Infragistics NetAdvantage for .NET 2006 Volume 2
+Senior software developer
+Intelsys Inc - Garden City, NY
+October 2005 to April 2006
+Reverse engineered and created documentation for the "True Path" database for the application that allows customers to track their EDI transactions.
+ Developed COM components for managing Electronic Data Interchange (EDI) transactions.
+ Developed additional pages for web interface (user front-end) using ASP. Design application using complex object structure representing EDI Document Object Model structure for validating EDI compliance against ANSI standards.
+ Specified user-friendly file formats for interacting between energy suppliers and energy distributing companies.
+Computer programmer
+Corporate Transportation Group, Ltd - Brooklyn, NY
+October 2004 to September 2005
+Designed the application for generating invoices for different customer requirements from existing database.
+ Designed the database and user interface for distributed application for coordinating transportation jobs in a different locations of the USA and worldwide.
+ Used tools: Visual Basic.NET, ADO.NET, Infragistics controls, and Microsoft SQL Server 2000 (tables, triggers and stored procedures).
+Head of IT department
+UralTransNefteproduct, Ufa, Russia
+January 2003 to January 2004
+Supervised the activities of an IT staff supporting 1500+ users.
+Software Engineer
+UralTransNefteproduct, Ufa, Russia
+January 1996 to January 2004
+Software Engineer
+Central Savings Bank
+January 1994 to January 1996
+Education	
+Diploma in Information Technologies and Computer Engineering
+Ufa State Aviation Technology University
+Skills	
+SQL (10+ years), C# (10+ years), Vb.Net (10+ years), ASP (Less than 1 year)
+Links	
+http://www.linkedin.com/in/bulatgazizov
+https://mcp.microsoft.com/Anonymous/Transcript/Validate
+Certifications	
+Microsoft Certified Solution Developer: Visual Studio 6.0
+August 2003 to Present
+Designing and Implementing Desktop Applications with Microsoft Visual Basic 6.0
+Designing and Implementing Databases with Microsoft SQL Server 7.0 
+Designing and Implementing Distributed Applications with Microsoft Visual Basic 6.0
+Analyzing Requirements and Defining Solution Architectures
+Analyzing Requirements and Defining Microsoft .NET Solution Architectures
+Microsoft Certified Professional: Microsoft Certified Professional
+April 2013 to Present
+Installing and Configuring Windows Server 2012
+Microsoft® Certified Solutions Associate: Windows Server 2012
+June 2013 to Present
+Installing and Configuring Windows Server 2012
+Administering Windows Server 2012
+Configuring Advanced Windows Server 2012 Services
+Additional Information	
+SKILLS
+
+DBMS: Microsoft SQL, Server 7.0, 200, 2005, 2008; MS Access 2, 2000, 2003, 2008
+Programming Languages: Transact SQL (T-SQL), Visual Basic.NET, C# (.NET platforms from 1 to 3.5), ASP.NET, Visual Basic 5.0, 6.0, ASP, Delphi, JavaScript, and VBScript
+Report engines: MS SQL Reporting Services, Data Dynamics Active Reports 3.0, Crystal Reports for Visual Studio .NET
+Other: Toad, Rational Rose, Microsoft Business Intelligence: Analysis Services, Reporting Services, Integration Services, Data Mining and Data Warehousing; Windows Forms, Web Forms, Web Services, Infragistics controls for .NET and Windows Forms, Aspose Controls for .NET, ADO.NET, XML, AJAX, CSS, IIS, ActiveX, COM/DCOM, CGI
+
+MCSA (Microsoft Certified Solutions Associate).
+MCP in implementing a database on Microsoft SQL Server 7.0
+MCP in Designing and Implementing Desktop Applications with Microsoft Visual Basic 6.0;
+MCP in Designing and Implementing Distributed Applications with Microsoft Visual Basic 6.0
+MCP in Analyzing Requirements and Defining Solution Architectures
+
+Software Developer
+Senior Software Engineer
+New York, NY
+About Nine Years working experience in object-oriented, multi-tiered application development using several design patterns and principles. Effective working in an offshore-onshore model, delivering efficient solutions on time, and working with multiple projects concurrently. Excellent team player working as a full stack developer. Write clean, well-structured code, and mentor junior developers.
+Authorized to work in United States for any employer
+Work Experience	
+Software Developer
+Esurance - San Francisco, CA
+March 2015 to Present
+Responsibilities
+Designing and Developing different tools and services for Business Intelligence Team. Esurance BI team use these tools and services to exchange secured and valuable data and files with partner organizations.
+
+Designed and Developed online marketing tools for marketing team. Using this tool marketing team analyzing data to promote and manage their online marketing in Google, MSN and Yahoo.
+
+
+Skills Used
+C#, ASP.NET, ADO.NET, REST API, SQL Server, jQuery, JavaScript, HTML, CSS, Google APIs, MSN APIs, Yahoo APIs
+Senior Software Engineer
+iXora Solution - Dhaka
+February 2014 to July 2014
+iXora builds software solutions for clients in the US and Denmark: www.ixorasolution.com
+ Managed, designed, developed and implemented Office 365 hosted Outlook email app to integrate Outlook e-mail with a CRM (SharePoint App) system. This app allows the user to access details of contacts addressed in the email. The user can also save email in SharePoint library or in list item.
+ Designed, developed and implemented RESTful Web API's to access data from third party applications related to financial databases.
+ Managed, designed, developed and implemented an Office 365 hosted SharePoint app based e-Marketing system. Developed backend web services to give access to list items from other sites.
+
+Technologies used: C#, ASP.NET 4.5, RESTful Web API, Ajax, JavaScript, jQuery, JSON, HTML, CSS, Bootstrap, SharePoint 2013, SharePoint Apps, Office Apps
+Senior Software Engineer
+Sentrana BD - Dhaka
+March 2011 to January 2014
+	Designed, developed and implemented resource and project management system (ASP.NET MVC)
+	Developed a communicator software and web services for a golfing device. This device enables golfers to record and analyze over 120 individual shot statistics for all their rounds. Golfers can socialize their rounds and compete in challenges from friends and in Golf Metrics’s own tournaments and challenges. (showmeopen.showmegolfers.com/gamekeeper.php)
+	Designed, developed and implemented a highly customizable SharePoint web application for a Danish customer. Created custom site template, Master pages, pages, WebPart, timer job, event receiver, user and user group permission management system. Developed services to access Outlook email from the application. Integrated third party application in our application.
+	Developed WCF services to access data from third party applications related to financial databases, company registries used by European governmental agencies and other financial companies.
+	Designed, developed and implemented an Office 365 hosted highly customizable SharePoint app based CRM solution (www.iglobecrm.com/content/home-iglobe-crm-homepage ).
+	Developed and deployed mobile apps including Audi Insight iPhone app, DLVS (Danske Lægers Vaccinations Service) Android app.
+
+Technologies used: C#, ASP.NET, MVC, WCF, Entity Framework, SQL Server 2005, JavaScript, jQuery, Ajax, JSON, HTML, CSS, XML, SharePoint 2010/2013, SharePoint Power Shell, SharePoint Designer, SharePoint Admin, Office 365, SharePoint/Office Apps, iOS, Android
+Software Engineer
+Popular Pharmaceuticals - Dhaka
+May 2008 to February 2011
+The company is the largest pharmaceutical in Bangladesh: www.popular-pharma.com
+
+ Designed, developed and implemented a web based sales tracking and management software, a "first ever in Bangladesh", which is used by more than a thousand salespeople. The application allows users to maintain real time inventory of items stored and sold in particular geographical regions, invoice sales items, maintain sales data and commissions derived thereof, do analysis of cost benefit of sales vs. sales related expenses, have an in-depth view into the performance of individual salespeople, manage overall sales, etc.
+ Designed, developed and implemented a social web app to promote sales, discusses sales strategies, exchange private and group massage, create appointment and educate about new products among pharmaceuticals sales people.
+ Developed and implemented a windows based human resource, finance and accounting, inventory management system.
+ Developed a mobile application for medical sales representatives to manage and track sales and order.
+
+Technologies used: C#, ASP.Net, LINQ to SQL, SQL Server 2005, Crystal Report, Ajax, jQuery, JavaScript, HTML, XML, CSS
+Software Developer
+Pyxisnet - Dhaka
+December 2006 to April 2008
+Pyxisnet worked with clients in the US and Denmark, as a software consulting company
+
+ Designed and implemented web based collaborative software for a Danish client, on Microsoft .Net platform. This application allows users to form a community of interest groups across the globe. These groups can exchange emails, store files, share calendars, invite participants, conduct polls, etc, to manage effective communications within a group or among several groups. This application is widely used by Danish unions and trade organizations.
+
+Technology used: C#, ASP.NET, SQL Server 2000, CSS, HTML, XML, JavaScript
+Education	
+Diploma in Computer Science
+IDB-BISEW Dhaka
+January 2005 to January 2006
+M. Sc. in Physics
+National University
+January 2002
+B. Sc. in Physics
+National University
+January 2001
+Skills	
+Software Engineering (9 years), Asp.Net(C#) (9 years), Javascript (8 years), jQuery (5 years), Ajax (3 years), AngularJS (1 year), Wcf (3 years), Web API (3 years), Google API (2 years), CSS (6 years), Bootstrap (2 years), SQL Server (5 years), Oracle (1 year)
+Links	
+https://www.linkedin.com/in/khosru/
+Certifications	
+MCSD
+
+Software Developer
+Senior Developer
+Amityville, NY
+Permanent, full time employment in the field of Computer Science
+Authorized to work in United States for any employer
+Work Experience	
+Software Developer
+Apex Laboratory
+November 2018 to Present
+Working on multiple development projects that combines logistics with the laboratory software, and streamlining the mobile collection process using the following technologies:
+-ASP.NET
+-SQL Server
+-C#, VB.net
+-Bootstrap
+-AngularJS
+-Ajax
+-Classic ASP
+-JSON
+-Javascript
+-Restful API, Web API
+-MVC framework
+Software Developer
+Accela / Granicus
+January 2017 to November 2018
+Participate in the development of a next-generation SaaS platform, primarily built upon ASP.NET MVC, ASP.NET Web API, SQL Server 2008, and SQL Server 2014 technologies
+Analyze complex system and business requirements
+Enhance an existing video streaming application with a focus reliability and ease of support
+Optimize web applications to maximize speed and scale
+Follow Agile development methodologies
+Senior Developer
+LiDAC - Great Neck, NY
+July 2016 to December 2016
+System Architecture.
+Service Oriented Architecture.
+Fix open bugs and bugs assigned to me. 
+Full stack development. 
+Create sites using ASP.NET MVC with Entity Framework and SQL Server Databases. 
+Heavily involved with project decisions.
+Senior Developer
+SABERIN SYSTEMS, LLC
+October 2014 to June 2016
+Team Lead on multiple projects
+Mentoring Junior Developers
+Create custom applications for hedge funds and other financial institutions.
+Create & Maintain Intranets and CRMs
+System Architecture
+Service Oriented Architecture
+Use Visual Studio 2013 with Kendo UI, Bootstrap and SQL Server 2012 to create and maintain ASP.NET MVC pages with Entity Framework.
+Manage customer service tickets with Jira.
+Senior Developer
+CONTRIX, INC
+February 2010 to October 2014
+Created and Developed an Office Management System
+Fix open bugs and bugs assigned to me.
+Manage customer service tickets using Jira.
+Used Web Services to gather data to multiple websites.
+Allocate capital to multiple magazine distributors.
+Use Visual Studio 2013 & 2008, SQL Server 2005 and MySQL to create and maintain ASP.NET pages (Webforms & MVC, C# & VB.NET).
+Create Ecommerce websites.
+Heavily involved with project decisions and start up procedures.
+Senior Software Engineer
+CRISPY GAMER, INC
+July 2009 to February 2010
+Maintain & Update Crispy Gamer site.
+Fixed open bugs and bugs assigned to me.
+Maintain & Update CMS.
+Use Visual Studio 2008, SQL Server 2005 and MySQL to create and maintain ASP.NET pages.
+Create an API in XML for other websites to use Crispy Gamer's data.
+Create RSS feeds for Crispy Gamer's Video and Article data.
+Create Content Boxes that use JavaScript to inject Crispy Gamer's data in other websites.
+Test all updates and changes in QA Server.
+Heavily involved with project decisions and start up procedures.
+Senior Internet Engineer
+PINNACLE MEDIA, INC
+May 2008 to September 2008
+Create E-commerce websites.
+Create and maintain various sites and some Windows Forms.
+Use Visual Studio 2002 & 2005 C# and SQL Server 2000 / 2005 to create ASP.NET 1 and .NET 2 pages.
+Use of RAD Controls & AJAX. Provide Technical Support to various clients.
+ASP.NET Programmer
+THETA DISCOVERIES, INC
+September 2007 to May 2008
+Help Create the program “School Office 2008” which:
+ Stores & evaluates students tests & grades
+ Takes student attendance
+ Defines teacher classes
+ Stores & organizes students contact information
+ Displays Class Assignments & Messages
+ Displays Each Class Artwork & Student Updates
+Create and maintain over 50 Catholic Schools ASP.NET pages using Visual Studio 2005.
+Use C#, RAD Controls & AJAX to program websites.
+Maintain large databases with SQL Server 2005.
+Provide Technical Support and Train School Administrators on School Office 2008
+
+WEBSITES: www.idjnow.com - Made upgrades to the Admin pages. Created a repair web application.
+www.discountshelving.com - Made upgrades to the Admin pages and shopping cart.
+www.displays4sale.com - Made upgrades and added some AJAX.
+www.magazine-agent.com - Created and Managed class objects and database structure.
+www.lolobag.com - Created and Managed class objects, service calls and database structure.
+
+PROFESSIONAL	Website Design & Maintenance, Computer Programming languages
+Education	
+BACHELOR OF SCIENCE in Computer Science
+NEW YORK INSTITUTE OF TECHNOLOGY Old Westbury, NY
+December 2004
+Skills	
+Asp.Net (10+ years), ASP.Net MVC (4 years), VB.Net (4 years), C# (10+ years), Web Services (4 years), JQuery (6 years), Kendo UI (2 years), Bootstrap (2 years), JSON (6 years), SQL (10+ years), SSRS (1 year), JIRA (7 years), SVN (6 years), Ajax (9 years), Team Leader (4 years), Project Management (4 years), VB.Net (6 years), Web Api (4 years), Microsoft Sql Server (10+ years), Microsoft Visual Studio (10+ years), IIS (9 years), Javascript (Less than 1 year), Entity Framework (4 years), LINQ (4 years), SignalR (1 year)
+
+Software Developer
+Web Developer
+Jamesville, NY
+Proactive individual desiring to transfer experience in programming, analysis, testing, problem-solving and technical documentation to a Web Developer position. Self-motivated and versatile with strong customer service and team-building skills. Studying for MCSA Web Applications Certification. Website: http://dvito428.com/
+Authorized to work in United States for any employer
+Work Experience	
+Software Developer
+Solü Technology Partners - Victor, NY
+January 2011 to January 2018
+ Contractor providing oncall and project support for BlueCard and legacy applications.
+ Reduced mainframe CPU costs by moving over 100 Bluecard jobs from Excellus to PlanConnexion's mainframe. 
+ Skills include DB2 SQL, Cobol, Eztrieve, JCL, CICS, and IMS.
+Programmer
+Anoplate - Syracuse, NY
+January 2010 to January 2011
+ Analyzed, coded, and tested Anoplate PICK, Visual Basic, and Microsoft Access applications.   
+Lotus Domino Developer
+AXA Equitable - Syracuse, NY
+January 2008 to January 2009
+ Improved workplace communication and streamlined business processes by providing messaging and collaboration solutions to clients.
+ Automated and streamlined workflow for the Controllers area by designing, creating, and testing the Signature Authorization Cards application. 
+ Assisted clients during the transition of email from Lotus Notes to Outlook to facilitate acceptance of the new software and reduce licensing costs.
+ Supported turnover of Lotus Domino applications to outsourcers and worked closely with them to make the transition successful to reduce maintenance costs.   
+Software Configuration Specialist
+AXA Equitable - Syracuse, NY
+January 2003 to January 2008
+ Set up promotion paths for financial applications using Endevor change management software in order to comply with audit requirements.
+ Set up and tested new Endevor releases to ensure that change management software will function correctly on the upgraded operating system.
+Education	
+Associate in Microcomputer Systems Management
+Bryant & Stratton Liverpool, NY
+Skills	
+ASP (Less than 1 year), ASP.NET (Less than 1 year), BUSINESS REQUIREMENTS (7 years), C# (Less than 1 year), CICS (Less than 1 year), Java (Less than 1 year), Javascript (Less than 1 year)
+Links	
+https://www.linkedin.com/in/donnavito
+https://github.com/dvito42
+http://dvito428.com/
+Additional Information	
+TECHNICAL SKILLS
+
+HTML	CSS3	JavaScript
+Java	DB2/SQL	ASP.NET C#
+Requirements Gathering	Analysis	Testing
+COBOL/IMS/CICS	Eztrieve	Endevor Change Manager
+
+Software Developer
+Software Developer - Infosys
+North Syracuse, NY
+Work Experience	
+Software Developer
+Infosys - Cary, NC
+December 2018 to Present
+Application developer working in a team for a Texas-based client (Verizon)
+Software Engineer
+Lockheed Martin - Owego, NY
+April 2018 to June 2018
+Code documentation of an existing software product written in C (Doxygen documentation generation utility)
+Software Engineer II
+Salient Management Company - Horseheads, NY
+June 2015 to February 2018
+ C++ programming; Worked as part of a software engineering team on the company's Windows desktop client for numeric analysis of client's retail sales data in both a tabular and graphical form (Microsoft Visual Studio, MFC)
+ Git used for source code management; Agile methodology employed (JIRA, Confluence)
+Senior Software Developer
+Polaris Library Systems - Liverpool, NY
+March 1998 to October 2014
+ C++ and C# programming; Worked individually and as part of a team on the company's suite of library automation software from design to final implementation and testing (Microsoft Visual Studio, MFC)
+ Microsoft SQL Server RDBMS was used extensively (DDL, stored procedures, triggers, functions, CTEs)
+ SourceSafe, TFS for source code management; Agile methodology employed (JIRA)
+Software Developer
+Syracuse Research Corporation - Syracuse, NY
+November 1996 to March 1998
+ Worked as a member of the IT department in a government contract environment (TS-SCI clearance obtained)
+ MS Access application developed for EPA to manage toxicology data after raw data normalized to relational form
+Education	
+Master of Science in Computer Science
+Rochester Institute of Technology Rochester, NY
+Bachelor of Science in Computational Mathematics
+Rochester Institute of Technology Rochester, NY
+Skills	
+.NET (10+ years), C (10+ years), JIRA (10+ years), MFC (10+ years), Microsoft Visual Studio (10+ years), C++ (10+ years), Java (2 years), SQL (10+ years)
+Additional Information	
+Skills
+ Languages: C++, Java, C, C#, Python, MS Access Basic (VB/A), Smalltalk, Fortran
+
+ Operating Systems: Microsoft Windows, UNIX, LINUX
+ Databases: Microsoft SQL Server, MS Access, Sybase, Oracle
+
+ Other Skills: Microsoft Visual Studio IDE, Git, Agile methodology (JIRA), MFC, XML, STL, HTML5
+
+Software Developer
+Software Developer - Verizon Media
+Seasoned software developer with proven track record of success
+Technology, programming language agnostic, equally comfortable with front end and backend
+technologies
+Brought to market multiple mobile apps, currently in iTunes and Google play store
+Equally comfortable as an individual contributor as well a technology leader
+Work Experience	
+Software Developer
+Verizon Media - New York, NY
+June 2012 to Present
+ Work on various major brand names consumer facing mobile apps used by millions of users. Work on UI, Networking, and data persistence using SQLite.
+ Optimized app performance, usability and battery life.
+ Architected major components such as offline mail.
+ Mentored junior staff and exercised code reviews.
+ Set up continuous integration environment using Jenkins for the entire communication
+division.
+ Android apps: Aol.com, Alto, Yahoo app, Yahoo News, Yahoo Weather
+ iOS apps: about.me, Huffington Post, Shoutcast, AltoMail and Aol.com
+Technologies: Python, PHP, Linux, Ubuntu, C++, Docker, MySQL, SQLite, Node.js
+Software Consultant
+Brightwater Software - New York, NY
+February 2010 to June 2012
+	Consulting to startups (Rewind.me, YellowBrck, Xposure Solutions, etc.) myself and using offshore staff
+	Develop many iPhone apps for social networks, businesses and entertainment
+	Rewind.me - solemnly coded a NYC|TechStars finalist iPhone app
+	YellowBrck - social media app for parents to communicate about their kid activities and earn voucher
+	Several real time camera apps utilizing AV Foundation framework and OpenGL ES 2.0
+shaders for video frame processing
+Technologies: .NET, PHP, Python, Ruby, Objective-C
+Software Developer
+Thomson Reuters - New York, NY
+November 2006 to February 2010
+	An online media company (NY, NY) Mobile:
+	Collaborated with offshore staff to develop "Graph Expo 2010" mobile app on iPhone,
+Android and Blackberry.
+	Successfully submitted these three apps to iTune, Android Marketplace, and Blackberry
+World Project management, leadership and mentoring of junior staff
+Technologies: MSSQL 2005, C#, VB.NET, web services, etc. Web:
+Took ownership, enhanced and re-architected company's core product to deliver context
+sensitive online advertisements, directories, and other backend products Documented vague and inconsistent requirements from reps, executives and accountants into concise documentation
+used by the team
+Technologies: MSSQL 2005, C#, VB.NET, web services, web forms, PDF, etc.
+Team Leader, then Manager
+Thomson Financial - New York, NY
+July 2001 to November 2006
+Provide technical leadership to a disperse team of 14 developers (NYC and Bangalore, India)
+Responsible for all task assignments, resource allocations and smooth development process
+Interface with Product Managers, QA, and Operations Facilitate all intra-team communications to ensure clarity and delivery of dependencies Conduct design and code reviews to facilitate
+consistency and use of standards Lead team towards successful design and implementation
+Facilitate inter-team communication to overcome time-zone and personal boundaries Develop
+project plans and communicate commitments to management Provide technical leadership and specifications to offshore development staff (Bangalore, India) Re-architected parts of the system to improve performance 300% Created an application-specific tool to stress, measure
+performance, and perform regression testing Serve as a "local architect" to represent the group on Thomson Corp's architectural meetings
+Member of the team to draft responses to RFQs from major institutional clients Directly
+interfaced with technical staff of company's major clients (Merrill Lynch, etc.). Developed
+prototypes and planed integration touch-points and deliverables Co-authored technical
+documentation to be used by clients
+Developed fixed-income valuation software Visual C++, ATL, TIPS
+Education	
+M.S. in Computer and Information Science in Computer and Information Science
+Brooklyn College Brooklyn, NY
+Skills	
+integration (10+ years), INTEGRATOR (10+ years), offshore (10+ years), Project management (3 years), quoting (Less than 1 year)
+Additional Information	
+Skills
+* Full cycle project management * Planning and tracking * Fixed bid project quoting *
+Dealing with difficult clients
+* Successful integration of offshore development staff (India)
+* Team building
+
+Software Developer
+Software Engineer - syvertsen.software@gmail.com
+Plainview, NY
+Objective: software development in a collaborative culture and meaningful mission.
+Work Experience	
+Software Developer
+Kliger-Weiss Infosystems - Greenvale, NY
+November 2016 to Present
+iOS development supporting mobile point-of-sale systems using swift, objc, Xcode, and SQL.
+Backend support for reporting applications using awk, bash, and SQL.
+Integration Software Engineer
+General Dynamics - Fairfax, VA
+January 2016 to October 2016
+Support of TCS tactical system using bash, python, kickstart, and rpm.
+
+ Development for NAS Netboot and COTS Installation applications for RHEL 6
+distribution.
+ Kickstart development for RHEL 6 and RHEL 7 distributions.
+Computer Scientist
+Harris-Exelis Inc. (Naval Research Lab, Air Force Research Lab) - Washington, DC
+February 2013 to December 2015
+Support of Enabling Capability / Naval Computer Network Defense, including design and development using Erlang and C++ for distributed information assurance applications, distributed continuous integration using Jenkins, and integration of supporting performers' software for Linux and Windows (2008 R2, Win7) platforms.
+
+ Developed network sniffer daemon, and socket library using libpcap, C++, Erlang, and internal Parsing Expression Grammar.
+ Developed message class to interface with Erlang virtual machine using C++, Erlang, and zmq.
+ Built and configured distributed multi platform continuous integration system for Naval Computer Network Defense Software, and supporting performers' software on Linux and Windows platforms.
+ Configuration of DNS Bind servers for Test and Evaluation infrastructure.
+ Support of Advanced Tactical Data Link (ATDL) virtual network communications application test framework using python, bash, tcl-tk, and gnuplot.
+ Development for SDK of Phoenix Prime information sharing platform and support of Coalesce maturity project using Java, JAX-WS, HTTP Client, SoapUI, and ant.
+Software Engineer
+Tech Wizards - Patuxent River, MD
+October 2008 to January 2013
+Support of Mission Computer AMIIP, SCS8 and SCS9 efforts, including
+Link 16 filtering, Target Sorting, and Desired Mean Point of Impact development
+functionality using Ada.
+
+ Developed AIS message parser and data validation library for Mission Computer for the E-2C Hawkeye 2000 using Ada.
+ Development and Linux port and upgrade of Mission Information and Software
+Transfer programs utilizing Tcl/Tk, Bash, Perl, gconf, and rpm spec file development.
+ System recovery procedure for Solaris 8/9 using Jumpstart and Legato Networker.
+ Automated system configuration for Solaris8/9 including network file serving,
+centralized accounts, and GNU development tools.
+ Support for foreign military variants of the Advanced Controller Indicator Set (ACIS).
+ Support for Link16 messages for ACIS.
+ User Interface aplication for ACIS and message testing.
+ Automation of CM build and distribution of Mission Information Software Transfer
+(MIST) software.
+ CMMI/TSP Quality coordination and analysis for Mission Computer for AMIIP and
+SCS8.
+Software Engineer
+Advanced Acoustic Concepts - King George, VA
+January 2003 to October 2008
+Developed installer for Next Generation CLASS (NGC) LMS application for all
+supported platforms including Q70 Consoles, Workstations, and SunRay thin client
+systems running Red Hat Enterprise Linux (RHEL) and Sun Solaris 8 operating
+systems.
+
+ Performed software development, enhancements, and maintenance for NGC and LMS
+applications on RHEL and Solaris 8 on aforementioned systems, including source
+development and modification using Bash, C-shell, and Java with Native Interfaces
+(JNI).
+ Performed integration, testing, and debugging for deployment on various X-Windows
+based systems, including Q70 consoles utilized for the Aegis class platforms, sparc, and pc workstations running RHEL.
+ Performed development, enhancements, and maintenance to C++/ACE and MySQL
+interface recording and playing back events and data. This includes development of C++
+test programs to use proprietary middleware classes and random data generation to test
+recording and playback functionality independent of "System Services" infrastructure.
+ Performed development, enhancements, and maintenance to C++/ACE routing
+program using TAO (ACE CORBA) Event Channels.
+ Developed custom RHEL 4.4 system software images including spec file and rpm
+development for COTS components and patches.
+ Performed automation of RHEL custom system installation via "Kickstart".
+ Developed system audit program for verification of images, kernel(s), patches, package
+installation and integrity.
+ Performed development and maintenance of scripted cross platform Version
+Management (PVCS) label and accessing.
+ Performed maintenance and enhancements to Java Swing Event Monitor program
+using Accessibility.
+ Developed and maintained custom xml based configurations and scripts for use with
+TAO-based integrated system services.
+ Documented requirements for software version descriptions, and test procedures for all of the above.
+Internship
+Standard Microsystems - Hauppauge, NY
+January 2000 to January 2002
+Duties involved firmware programming for embedded systems, testing SMSC product
+hardware on various windows platforms, interfacing with and assisting customers with technical questions and problems, documentation. Various hardware troubleshooting.
+System Administrator/Monitor
+Stony Brook University Library Sync Site - Stony Brook, NY
+January 1999 to January 2002
+Duties involved assisting fellow students with technical problems (primarily Solaris and
+BSD systems), supervising the lab, and managing sign-in sheets.
+Education	
+M.S. in Computer Science
+Johns Hopkins University Baltimore, MD
+January 2011 to January 2016
+B.S. in Computer Science and Electrical Engineering
+University of Stony Brook Stony Brook, NY
+January 1997 to January 2002
+Skills	
+Linux (10+ years), shell scripting (8 years), erlang (2 years), ada (1 year), python (2 years), java (4 years), c++ (5 years), tcl-tk (2 years), ruby (1 year), awk programming (1 year), sql (3 years), Swift (1 year), Mac OS X (1 year), Git (2 years), IOS (1 year), C (5 years), MySQL (Less than 1 year)
+Additional Information	
+Relevant Course Work: 
+Information Retrieval, Data Science, Artificial Intelligence and Machine Learning, Compiler Design, Network and Systems programming, Hadoop.
+
+Languages and Technologies:
+Java, C++, C, Erlang, Java, JAX-WS, ZeroMQ, libpcap, CppUTest, HDFS, MapReduce, Hive, Pig, Ada, Ruby, TclTk, GCC, zmq, Wireshark/tshark/tcpdump, libpcap, Studio 11 (Solaris “CC”), Boost, Qt, Motif/X-Windows, Rebar, Make, Ant, Maven, GDB, JDB, ACE-TAO (CORBA), Ruby on Rails, Perl, Python, SQL, Swing, JSP/Servlets, XML, DHTML, JavaScript, octave, R, libconfig, Autotools, Scripting (escript, Bash, Bourne, Cshell, DOS/CMD), PLY (python), pandas (python data analysis library), scikit-learn, Lex, Bison (yaac), Wireshark, Kickstart (automated installation), clang, llvm, rpm, rpmbuild, Doxygen, Eclipse IDE, SoapUI, GNOME/KDE, Legato Networker, ClearCase, SVN, Git, PVCS, CVS, DOORS, Serena “Team Track” (process management), Polarion (collaboration software), Jenkins continuous integration software, Agile and TSP development methodologies. 
+
+Development Methodologies
+- Agile: Experience developing Erlang and C++ applications.
+- TSP: Experience developing Ada and C++ applications.
+
+Systems 
+- Linux: Experience administrating RHEL (versions 4.4, 4.5), on Q70-Console systems.
+Experience administrating RHEL (versions 4.x, and 5.x) on workstations. Experience
+includes: Arch, Fedora, Gentoo, Slackware, Debian, Mint/LMDE, and Ubuntu.
+
+- Solaris: Experience administrating Solaris8 on Q70-Console systems and sparc
+workstations. Experience with Solaris 10 on PC platforms.
+
+- BSD: Experience administrating FreeBSD 3.5.x.
+
+- HP-UX: Experience includes release 10.2.
+
+- DEC: Experience includes OSF/1.
+
+- Windows: Experience includes Server 2008 R2 and Windows 7.
+
+- Virtual Machines: VMWare (Player), VirtualBox.
+
+- Emulators: Bochs, QEMU.
+
+Software Developer
+Software Developer - Infosys
+North Syracuse, NY
+Work Experience	
+Software Developer
+Infosys - Cary, NC
+December 2018 to Present
+Application developer working in a team for a Texas-based client (Verizon)
+Software Engineer
+Lockheed Martin - Owego, NY
+April 2018 to June 2018
+Code documentation of an existing software product written in C (Doxygen documentation generation utility)
+Software Engineer II
+Salient Management Company - Horseheads, NY
+June 2015 to February 2018
+ C++ programming; Worked as part of a software engineering team on the company's Windows desktop client for numeric analysis of client's retail sales data in both a tabular and graphical form (Microsoft Visual Studio, MFC)
+ Git used for source code management; Agile methodology employed (JIRA, Confluence)
+Senior Software Developer
+Polaris Library Systems - Liverpool, NY
+March 1998 to October 2014
+ C++ and C# programming; Worked individually and as part of a team on the company's suite of library automation software from design to final implementation and testing (Microsoft Visual Studio, MFC)
+ Microsoft SQL Server RDBMS was used extensively (DDL, stored procedures, triggers, functions, CTEs)
+ SourceSafe, TFS for source code management; Agile methodology employed (JIRA)
+Software Developer
+Syracuse Research Corporation - Syracuse, NY
+November 1996 to March 1998
+ Worked as a member of the IT department in a government contract environment (TS-SCI clearance obtained)
+ MS Access application developed for EPA to manage toxicology data after raw data normalized to relational form
+Education	
+Master of Science in Computer Science
+Rochester Institute of Technology Rochester, NY
+Bachelor of Science in Computational Mathematics
+Rochester Institute of Technology Rochester, NY
+Skills	
+.NET (10+ years), C (10+ years), JIRA (10+ years), MFC (10+ years), Microsoft Visual Studio (10+ years), C++ (10+ years), Java (2 years), SQL (10+ years)
+Additional Information	
+Skills
+ Languages: C++, Java, C, C#, Python, MS Access Basic (VB/A), Smalltalk, Fortran
+
+ Operating Systems: Microsoft Windows, UNIX, LINUX
+ Databases: Microsoft SQL Server, MS Access, Sybase, Oracle
+
+ Other Skills: Microsoft Visual Studio IDE, Git, Agile methodology (JIRA), MFC, XML, STL, HTML5
